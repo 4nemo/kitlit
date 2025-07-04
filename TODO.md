@@ -1,4 +1,4 @@
 # Backlog:
 
-[] Story object specification (JSON?)
-
+[ ] Story object specification (JSON?)
+[ ] 
